@@ -3,7 +3,11 @@
 # Simple Chat on Sockets
 
 <hr>
-Java Core
+<ul>
+  <li>Java Core</li>
+  <li>Sockets</li>
+  <li>Multithreading</li>
+</ul>
 <hr>
 
 ### Screenshots
